@@ -134,4 +134,4 @@ o	Đào tạo nhân viên: Để sử dụng hệ thống thông tin quản lý,
 -	Nâng cao tính bảo mật: Tăng cường tính bảo mật của hệ thống để đảm bảo an toàn thông tin.
 4.	Phân công công việc
  
-ĐIỂM ĐỒ ÁN: 77
+ĐIỂM ĐỒ ÁN: 7
